@@ -1,0 +1,15 @@
+{
+  "name": "Example",
+  "version": "1.0.0",
+  "description": "React app using the Rails's asset pipeline",
+  "main": "index.js",
+  "author": "Victor Palomo de Castro",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^15.0.14",
+    "@types/react-dom": "^0.14.23",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "typescript": "^2.2.1"
+  }
+}
