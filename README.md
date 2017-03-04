@@ -1,5 +1,3 @@
-Basic example using Rails + Webpack + React + Typescript + Hot Reloading
-
 **IMPORTANT**: This example doesn't load CSS and Images from webpack, so you need to put all on public, for now.
 
 ## Getting started
